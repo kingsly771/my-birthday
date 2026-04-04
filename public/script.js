@@ -472,9 +472,9 @@ document.getElementById('memory-restart').addEventListener('click', () => {
 const QUIZ_QUESTIONS = [
   {
     q: '🎂 En quelle année Sultan Lucien Valenhart fête-t-il son anniversaire le 5 Avril ?',
-    opts: ['2023', '2024', '2025', '2026'],
+    opts: ['2000','2003', '2004', '2005', '2006','2002'],
     ans: 2,
-    explain: '✅ Exact ! On est bien en 2025 !'
+    explain: '✅ Exact ! On est bien en 2003 !'
   },
   {
     q: '💻 Quelle est la classe de Sultan dans le système Valenhart ?',
